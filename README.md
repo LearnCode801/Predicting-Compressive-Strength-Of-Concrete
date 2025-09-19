@@ -15,4 +15,4 @@ Throughout the process, we will experiment with hyperparameters such as maximum 
 This is an exciting project that covers a wide range of regression techniques and model evaluation strategies.
 
 ---
-If you walk throught the code or see the result that I got plese free to check out the **Concrete_Strengh.ipynb** and **Concrete_Strengh.pdf** files repectively .
+If you walk throught the code or see the result that I got please free to check out the **Concrete_Strengh.ipynb** and **Concrete_Strengh.pdf** files repectively .
